@@ -5,7 +5,7 @@
 - 📩 Mail [yukhy62@gmail.com](mailto:yukhy62@gmail.com)
 
 ### 🏫 Education
-**Dongduk Women's University (March.2021 - Feb.2025(expected))
+- Dongduk Women's University (March.2021 - Feb.2025(expected))
   - Double major in Statistics and Information Science and Computer Science
       
 ### 🌱 Work Experience
@@ -18,7 +18,7 @@
 - [Statistics Korea](https://kostat.go.kr/ansk/) Statistics education talent donor / Team Leader (April.2023 - Dec.2023)
 - [ICT Mentoring Hanium](https://www.hanium.or.kr/portal/index.do) (March.2023 - Nov.2023)
 - [SK Telecom](https://devocean.sk.com/) DEVOCEAN YOUNG 2기 (March.2023 - Nov.2023)
-- [DDWU Ping!] 11th Education Leader (Feb.2023 - Feb.2024)
+- DDWU Ping! 11th Education Leader (Feb.2023 - Feb.2024)
 - [KAKAO VIEW EDITOR Z](https://view.kakao.com/) Excellent activist (Jan.2022 - April.2022)
 - [KAIT AI Service Developer Education](https://kait.or.kr/) (Nov.2021 - Dec.2021)
 - [LikeLion](https://www.likelion.net/) 9th (March.2021 - Feb.2022)
