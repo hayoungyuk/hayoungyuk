@@ -1,7 +1,7 @@
 ### HAYOUNG YUK (LUCY)
 - 👩‍💻 Growing, Junior Developer
 - 🌟 I want to become a person who can deliver positive influence to the world.
-- 🔗 [Github](https://github.com/hayoungyuk) | [Notion]
+- 🔗 [Github](https://github.com/hayoungyuk) | [Notion Portfolio] (https://www.notion.so/Yuk-HaYoung-Why-PM-2488af6d4b8c4000af22561ace274a07?pvs=4)
 - 📩 Mail [yukhy62@gmail.com](mailto:yukhy62@gmail.com)
 
 ### 🏫 Education
@@ -11,7 +11,7 @@
 ### 🌱 Work Experience
 - [INDUSTRIAL BANK OF KOREA Intern](https://www.ibk.co.kr/) (July.2023 - Aug.2023) 
   - Management Information Intern at IT information Department (Excellent intern)
-- [NAVER Intern](https://www.navercorp.com/) (Jan.2024 - Now)
+- [NAVER Intern](https://www.navercorp.com/) (Jan.2024 - Mar.2024)
   - NAVER GROWTH MKT Intern at Marketing Department
     
 ### ✨ Additional Information
@@ -47,7 +47,6 @@
 ### 🖇️ETC.
 <p align="left">
   <a href="https://buildtoday.tistory.com/"><img src="https://img.shields.io/badge/Tistory-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://buildtoday.tistory.com/"/></a>&nbsp
-  <a href="https://velog.io/@whyhy"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@whyhy"/></a>&nbsp
 </p>
 
 
