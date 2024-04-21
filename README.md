@@ -1,7 +1,7 @@
 ### HAYOUNG YUK (LUCY)
 - 👩‍💻 Growing, Junior Developer
 - 🌟 I want to become a person who can deliver positive influence to the world.
-- 🔗 [Github](https://github.com/hayoungyuk) | [Notion Portfolio] (https://www.notion.so/Yuk-HaYoung-Why-PM-2488af6d4b8c4000af22561ace274a07?pvs=4)
+- 🔗 [Github](https://github.com/hayoungyuk) | [Notion Portfolio](https://www.notion.so/Yuk-HaYoung-Why-PM-2488af6d4b8c4000af22561ace274a07?pvs=4)
 - 📩 Mail [yukhy62@gmail.com](mailto:yukhy62@gmail.com)
 
 ### 🏫 Education
