@@ -1,11 +1,10 @@
 ### HAYOUNG YUK (LUCY)
-- 👩‍💻 Growing, Junior Developer
+- 👩‍💻 Growing, Junior PM
 - 🌟 I want to become a person who can deliver positive influence to the world.
-- 🔗 [Github](https://github.com/hayoungyuk) | [Notion Portfolio](https://www.notion.so/Yuk-HaYoung-Why-PM-2488af6d4b8c4000af22561ace274a07?pvs=4)
-- 📩 Mail [yukhy62@gmail.com](mailto:yukhy62@gmail.com)
+- 🔗 [Github](https://github.com/hayoungyuk) | [Notion Portfolio]
 
 ### 🏫 Education
-- Dongduk Women's University (March.2021 - Feb.2025(expected))
+- Dongduk Women's University (March.2021 - Feb.2025)
   - Double major in Statistics and Information Science and Computer Science
       
 ### 🌱 Work Experience
