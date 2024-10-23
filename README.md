@@ -26,6 +26,7 @@
 -### 🏆 Awards
 - [Dongduk Women's University] 2023-02 Dean-recommended scholarship Student (Scholarship students recommended by the Dean)
 - [Korea Statistics Promotion Institute] Report on using the statistical data center in the first half of 2023 - Excellence Award
+-->
 
 ### ⚙️ Technology Stack
 <p align="left">
@@ -43,13 +44,14 @@
   <img src="https://img.shields.io/badge/-R-lightgrey"/>&nbsp
 </p>
 
+<!--
 ### 🖇️ETC.
 <p align="left">
   <a href="https://buildtoday.tistory.com/"><img src="https://img.shields.io/badge/Tistory-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://buildtoday.tistory.com/"/></a>&nbsp
 </p>
 -->
 
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayoungyuk&layout=compact&theme=dark)
 
 </br>
@@ -57,4 +59,4 @@
 <hr>
 <p align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukhayoung&count_bg=%2379C83D&title_bg=%23514D4D&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%BBhits++&edge_flat=false"/>
-</p>-->
+</p>
